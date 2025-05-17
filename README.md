@@ -1,5 +1,6 @@
-https://private-user-images.githubusercontent.com/106744622/333783733-83da358b-d560-4e60-88f3-409b9da86669.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1MDc4OTQsIm5iZiI6MTc0NzUwNzU5NCwicGF0aCI6Ii8xMDY3NDQ2MjIvMzMzNzgzNzMzLTgzZGEzNThiLWQ1NjAtNGU2MC04OGYzLTQwOWI5ZGE4NjY2OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxN1QxODQ2MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNTEzYTI5ZjMwMTQxNmE4NjkyMWU0MzA3NGU1OGZmYjVhZTYwODgyZjUxMGZmMDg3MzVmY2JmMzIxNGFhMzM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JKOuQGSw8znpNdR2TpvIRadwfdWj1oThb5iQa9shLV4
-
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Life" width="200"/>
+</div>
 ## ImeshNaveen
 
 Welcome to my colorful GitHub profile! Here you'll find a variety of projects, experiments, and creative explorations. I love coding, learning, and sharing knowledge with the community.
