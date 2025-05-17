@@ -1,4 +1,6 @@
-![about_me](https://github.com/user-attachments/assets/435acb50-4b8e-47e5-9fc7-83ce375fe4b6)
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Hello" width="150"/>
+</div>
 
 ## ImeshNaveen
 
