@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Hello" width="150"/>
+  <img src="[https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)" alt="Hello" width="150"/>
 </div>
 
 ## ImeshNaveen
