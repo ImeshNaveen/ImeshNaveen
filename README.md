@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Life" width="200"/>
 </div>
-## ImeshNaveen
+# ImeshNaveen
 
 Welcome to my colorful GitHub profile! Here you'll find a variety of projects, experiments, and creative explorations. I love coding, learning, and sharing knowledge with the community.
 
