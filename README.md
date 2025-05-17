@@ -1,4 +1,4 @@
-# 🌈 ImeshNaveen
+ ImeshNaveen
 
 Welcome to my colorful GitHub profile! Here you'll find a variety of projects, experiments, and creative explorations. I love coding, learning, and sharing knowledge with the community.
 
